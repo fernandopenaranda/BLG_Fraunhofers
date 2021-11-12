@@ -1,0 +1,3 @@
+[deps]
+BLG_Fraunhofers = "1a3f144c-4ab6-4c12-820f-9fa48e191063"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
